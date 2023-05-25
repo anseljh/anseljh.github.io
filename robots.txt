@@ -1,0 +1,4 @@
+Sitemap: https://www.anseljh.com/sitemapindex.xml
+
+User-Agent: *
+Host: www.anseljh.com
